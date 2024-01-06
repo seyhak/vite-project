@@ -1,0 +1,299 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`RewardsPage > renders and match snapshot 1`] = `
+<div>
+  <div
+    class="RewardsPage"
+  >
+    <h3>
+      Welcome John!
+    </h3>
+    <div
+      class="rewards"
+    >
+      <div
+        class="card rewards-group"
+      >
+        <h4
+          class="month"
+        >
+          January
+        </h4>
+        <div
+          class="month-rewards-wrapper"
+        >
+          <div
+            class="Reward"
+          >
+            <div>
+              <h6
+                class="date"
+              >
+                Sun Jan 06 2013
+              </h6>
+              <h5
+                class="value"
+              >
+                209
+              </h5>
+            </div>
+            <div
+              class="reward"
+            >
+              <h5>
+                268
+              </h5>
+            </div>
+          </div>
+          <div
+            class="Reward"
+          >
+            <div>
+              <h6
+                class="date"
+              >
+                Sat Jan 05 2013
+              </h6>
+              <h5
+                class="value"
+              >
+                152.01
+              </h5>
+            </div>
+            <div
+              class="reward"
+            >
+              <h5>
+                154
+              </h5>
+            </div>
+          </div>
+          <div
+            class="Reward"
+          >
+            <div>
+              <h6
+                class="date"
+              >
+                Wed Jan 02 2013
+              </h6>
+              <h5
+                class="value"
+              >
+                52.02
+              </h5>
+            </div>
+            <div
+              class="reward"
+            >
+              <h5>
+                2
+              </h5>
+            </div>
+          </div>
+        </div>
+        <h4
+          class="sum"
+        >
+          Your reward points for the month: 424
+        </h4>
+      </div>
+      <div
+        class="card rewards-group"
+      >
+        <h4
+          class="month"
+        >
+          December
+        </h4>
+        <div
+          class="month-rewards-wrapper"
+        >
+          <div
+            class="Reward"
+          >
+            <div>
+              <h6
+                class="date"
+              >
+                Sun Dec 30 2012
+              </h6>
+              <h5
+                class="value"
+              >
+                23.12
+              </h5>
+            </div>
+            <div
+              class="reward"
+            >
+              <h5>
+                0
+              </h5>
+            </div>
+          </div>
+          <div
+            class="Reward"
+          >
+            <div>
+              <h6
+                class="date"
+              >
+                Fri Dec 21 2012
+              </h6>
+              <h5
+                class="value"
+              >
+                90.12
+              </h5>
+            </div>
+            <div
+              class="reward"
+            >
+              <h5>
+                40
+              </h5>
+            </div>
+          </div>
+          <div
+            class="Reward"
+          >
+            <div>
+              <h6
+                class="date"
+              >
+                Thu Dec 20 2012
+              </h6>
+              <h5
+                class="value"
+              >
+                21.52
+              </h5>
+            </div>
+            <div
+              class="reward"
+            >
+              <h5>
+                0
+              </h5>
+            </div>
+          </div>
+          <div
+            class="Reward"
+          >
+            <div>
+              <h6
+                class="date"
+              >
+                Wed Dec 12 2012
+              </h6>
+              <h5
+                class="value"
+              >
+                223.12
+              </h5>
+            </div>
+            <div
+              class="reward"
+            >
+              <h5>
+                296
+              </h5>
+            </div>
+          </div>
+        </div>
+        <h4
+          class="sum"
+        >
+          Your reward points for the month: 336
+        </h4>
+      </div>
+      <div
+        class="card rewards-group"
+      >
+        <h4
+          class="month"
+        >
+          November
+        </h4>
+        <div
+          class="month-rewards-wrapper"
+        >
+          <div
+            class="Reward"
+          >
+            <div>
+              <h6
+                class="date"
+              >
+                Thu Nov 29 2012
+              </h6>
+              <h5
+                class="value"
+              >
+                150.12
+              </h5>
+            </div>
+            <div
+              class="reward"
+            >
+              <h5>
+                150
+              </h5>
+            </div>
+          </div>
+          <div
+            class="Reward"
+          >
+            <div>
+              <h6
+                class="date"
+              >
+                Tue Nov 20 2012
+              </h6>
+              <h5
+                class="value"
+              >
+                100.02
+              </h5>
+            </div>
+            <div
+              class="reward"
+            >
+              <h5>
+                50
+              </h5>
+            </div>
+          </div>
+        </div>
+        <h4
+          class="sum"
+        >
+          Your reward points for the month: 200
+        </h4>
+      </div>
+    </div>
+    <div
+      class="total card"
+    >
+      <h4
+        class="sum"
+      >
+        Total points: 960
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`RewardsPage > renders loader when loading is true 1`] = `
+<div>
+  <div
+    class="RewardsPage"
+  >
+    <div
+      class="Loader"
+    />
+  </div>
+</div>
+`;

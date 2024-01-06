@@ -3,6 +3,9 @@
 - run yarn
 - run yarn dev
 
+To run tests use
+`yarn test`
+
 ## Application flow
 
 1) login using any login and password
